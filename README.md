@@ -56,9 +56,7 @@ plt.show)
 ```
 ## Output:
 
-### Insert your output
-
-<br>
+<img width="793" height="605" alt="Screenshot 2025-12-27 132248" src="https://github.com/user-attachments/assets/48b63175-c207-4af9-bc72-cb88763a2465" />
 
 ## Result
 Thus the multivariate linear regression is implemented and predicted the output using python program.
